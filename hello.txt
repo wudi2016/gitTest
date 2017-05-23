@@ -3,4 +3,4 @@ Git is free softwart.
 Git has a mutable index called stage.
 now is origin
 now is branch
-Creation a new branch is quick & simple.
+Creating a new branch is quick and simple.
